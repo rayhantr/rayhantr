@@ -14,6 +14,7 @@ I’m MD Rayhan Talukder (aka: sinDbad), a full-stack web developer.
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rayhantr&show_icons=true&line_height=25&count_private=true&hide=prs,issues&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=30,2A6E76,11303B&hide_border=true" alt="sinDbad's GitHub Stats" />
 </a>
 
+
 <br>
 
 ## ⚙ Skills
