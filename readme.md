@@ -1,6 +1,6 @@
 <img align="center" src="./assets/hello.gif" height="30" alt="Hello" />
 
-I’m MD Rayhan Talukder (aka: <img align="center" src="./assets/sinDbad.svg" height="13" alt="sinDbad" /> ), a growing full-stack web developer and a passionate front-end developer.
+I’m MD Rayhan Talukder (aka: <img align="center" src="./assets/sinDbad.svg" height="15" alt="sinDbad" />), a growing full-stack web developer and a passionate front-end developer.
 
 <h2><img align="center" src="./assets/chart.gif" height="20" alt="chart" /> GitHub Stats</h2>
 
