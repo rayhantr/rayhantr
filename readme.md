@@ -1,22 +1,13 @@
-## 👋 Hello
+<img align="center" src="./assets/hello.gif"  alt="sinDbad's Most Used Languages" height=30 />
 
-I’m MD Rayhan Talukder (aka: sinDbad), a full-stack web developer.
+I’m MD Rayhan Talukder (aka: sinDbad), a full time full-stack web developer and a passionate front-end developer.
 
-## 📊 GitHub Stats
+<h2><img align="center" src="./assets/chart.gif"  alt="sinDbad's Most Used Languages" height=20 /> GitHub Stats</h2>
 
-<a href="https://github.com/rayhantr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhantr&title_color=ffffff&text_color=c9cacc&icon_color=11303B&labelColor=344A53&bg_color=30,2A6E76,11303B&hide_border=true&layout=compact&card_width=322"  alt="sinDbad's Most Used Languages" />
-</a>
+| <a href="https://github.com/rayhantr"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhantr&title_color=ffffff&text_color=c9cacc&icon_color=11303B&labelColor=344A53&bg_color=30,2A6E76,11303B&hide_border=true&layout=compact&card_width=322"  alt="sinDbad's Most Used Languages" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=rayhantr&show_icons=true&line_height=25&count_private=true&hide=prs,issues&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=30,2A6E76,11303B&hide_border=true&hide_rank=true" alt="sinDbad's GitHub Stats" /></a> | <img src="./assets/honesty.gif" alt="It ain't much, but it's honest work" width="870"> |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
 
-<a href="https://github.com/rayhantr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rayhantr&show_icons=true&line_height=25&count_private=true&hide=prs,issues&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=30,2A6E76,11303B&hide_border=true&hide_rank=true" alt="sinDbad's GitHub Stats" />
-</a>
-
-<p><img src="./assets/honesty.gif" alt="It ain't much, but it's honest work" width="370"></p>
-
-<br>
-
-## 🛠 Skills, Technologies & Tools
+## <img align="center" src="./assets/gears.gif"  alt="sinDbad's Most Used Languages" height=20 /> Skills, Technologies & Tools
 
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=react&color=11303B&labelColor=344A53)
 ![](https://img.shields.io/badge/Redux-informational?style=flat&logo=Redux&logoColor=764ABC&color=11303B&labelColor=344A53)
