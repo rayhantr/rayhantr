@@ -1,3 +1,4 @@
+<img align="center" src="./assets/appear.gif" height="270" alt="Your Friendly Developer Is Here" />
 <img align="center" src="./assets/hello.gif" height="30" alt="Hello" />
 
 I’m MD Rayhan Talukder a.k.a. <img align="center" src="./assets/sinDbad.svg" height="15" alt="sinDbad" />, a growing full-stack developer.
