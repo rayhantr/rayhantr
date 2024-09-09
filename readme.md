@@ -2,11 +2,6 @@
 
 <pre align="center"><strong>It is fine now. Why? Because your friendly Full Stack Web Developer, MD Rayhan Talukder is Here!</strong></pre>
 
-<h2><img align="center" src="./assets/chart.gif" height="20" alt="chart" /> GitHub Stats</h2>
-
-| <a href="https://github.com/rayhantr"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhantr&title_color=ffffff&text_color=c9cacc&icon_color=11303B&labelColor=344A53&bg_color=30,2A6E76,11303B&hide_border=true&layout=compact&card_width=390"  alt="sinDbad's Most Used Languages" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=rayhantr&show_icons=true&line_height=25&count_private=true&hide=prs,issues&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=30,2A6E76,11303B&hide_border=true&hide_rank=true" alt="sinDbad's GitHub Stats" /></a> | <img src="./assets/honesty.gif" alt="It ain't much, but it's honest work" width="470"> |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-
 <h2><img align="center" src="./assets/gears.gif" height="20" alt="Skills, Technologies & Tools" /> Skills, Technologies & Tools</h2>
 
 <h4>Current Stack: </h4>
@@ -35,3 +30,8 @@
 
 ![](https://img.shields.io/badge/GitHub-11303B?style=flat&logo=GitHub&logoColor=181717&labelColor=344A53)
 ![](https://img.shields.io/badge/Bitbucket-11303B?style=flat&logo=Bitbucket&logoColor=0052CC&labelColor=344A53)
+
+<h2><img align="center" src="./assets/chart.gif" height="20" alt="chart" /> GitHub Stats</h2>
+
+| <a href="https://github.com/rayhantr"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhantr&title_color=ffffff&text_color=c9cacc&icon_color=11303B&labelColor=344A53&bg_color=30,2A6E76,11303B&hide_border=true&layout=compact&card_width=390"  alt="sinDbad's Most Used Languages" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=rayhantr&show_icons=true&line_height=25&count_private=true&hide=prs,issues&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=30,2A6E76,11303B&hide_border=true&hide_rank=true" alt="sinDbad's GitHub Stats" /></a> | <img src="./assets/honesty.gif" alt="It ain't much, but it's honest work" width="470"> |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
